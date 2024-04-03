@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(162,83): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(162,83): warning C4244:         with
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(162,83): warning C4244:         [
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(162,83): warning C4244:             T=float
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(162,83): warning C4244:         ]
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(162,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(162,62): warning C4244:         with
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(162,62): warning C4244:         [
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(162,62): warning C4244:             T=float
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(162,62): warning C4244:         ]
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(164,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(164,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(185,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(185,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(55,10): warning C4101: 'gh': unreferenced local variable
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 139 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  KnightGame.vcxproj -> C:\Users\Nuthan Kumar HR\source\repos\KnightGame\x64\Release\KnightGame.exe

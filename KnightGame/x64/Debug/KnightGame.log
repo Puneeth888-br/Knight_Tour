@@ -1,0 +1,8 @@
+﻿  BL.cpp
+  main.cpp
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(113,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(113,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(152,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nuthan Kumar HR\source\repos\KnightGame\KnightGame\main.cpp(152,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  KnightGame.vcxproj -> C:\Users\Nuthan Kumar HR\source\repos\KnightGame\x64\Debug\KnightGame.exe
